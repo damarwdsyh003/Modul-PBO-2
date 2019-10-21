@@ -18,4 +18,4 @@ Sama seperti sebelumnya, data tersebut menampilkan berapa jumlah maksimal suatu 
 # Praktikum Bola
 ![Alt Text](https://github.com/damarwdsyh003/Modul-PBO-2/blob/master/Praktikum%20Bola.png)
 # KESIMPULAN
-Jadi enkapsulasi adalah suatu cara untuk menyembunyikan informasi detail dari suatu class yang artinya proses pembuatan paket data objek yang bersama dengan methodnya
+Jadi enkapsulasi adalah suatu cara untuk menyembunyikan informasi detail dari suatu class yang artinya proses pembuatan paket data objek yang bersama dengan methodnya.
